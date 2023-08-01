@@ -1,0 +1,6 @@
+This is the thirteenth program derived from 100 program prompts suggested by ChatGPT for a 4 week python course. My main goal is to pay close attention to pythonic syntax, creating/updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+3 Prompts used:
+42. Write a program that reads a text file and counts the occurrences of each word.
+46. Read the contents of a text file and print them to the console.
+47. Implement a program that counts the number of lines in a text file.
